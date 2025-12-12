@@ -1,6 +1,6 @@
-<h1 style="text-align:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i><font size=98>PROJECT GREYWOLF PT-1</font></i></b></h1>
+<h1 align="center"><b><i>PROJECT GREYWOLF PT-1</i></b></h1>
 <body>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>This project is experimental and for hobby purpose only</b><br>
+ <h4 align="center"><b>This project is experimental and for hobby purpose only</b></h4><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="BREIF INTRO">BREIF INTRO</a> &#x2022;<a href="COMPONENTS AND MATERIALS">COMPONENTS AND MATERIALS</a> &#x2022; <br>
 <a#BREIF INTRO><u><b>BREIF INTRO:-</b></u></a>                                                                                                                          
 </body><br>
