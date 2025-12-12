@@ -1,7 +1,7 @@
 <h1 style="text-align:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i><font size=98>PROJECT GREYWOLF PT-1</font></i></b></h1>
 <body>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>This project is experimental and for hobby purpose only</b><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="COMPONENTS AND MATERIALS">COMPONENTS AND MATERIALS</a> &#x2022;<a href="BREIF INTRO">BREIF INTRO</a>&x022;<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="BREIF INTRO">BREIF INTRO</a> &#x2022;<a href="COMPONENTS AND MATERIALS">COMPONENTS AND MATERIALS</a> &#x2022; <br>
 <a#BREIF INTRO><u><b>BREIF INTRO:-</b></u></a>                                                                                                                          
 </body><br>
 <img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/b531d8b4-a948-4aea-a3b5-f09534c2bfc8"  />
