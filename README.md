@@ -7,7 +7,7 @@
 </h4>
 <p align="center">
 <a href="#Breif Interview of THE WOLF">History of Development</a>•
-  < a href="#visuals">Some Viusals of the Wolf</a>
+  <a href="#Visuals">Some Viusals of the Wolf</a>•
   <a href="#Materials">Materials</a>•
   <a href="#Electronics">Electronics</a>•
 <a href="#credits">Credits</a>•
