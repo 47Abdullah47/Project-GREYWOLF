@@ -8,9 +8,9 @@
 </h4>
 <p align="center">
 <a href="#breif interview of the ">Breif interview of The WOLF</a>•
-  <a href="#visual looks">Viusal look</a>•
-  <a href="#materials list">Materials list</a>•
-  <a href="#electronics list">Electronics lsit</a>•
+  <a href="#visual looks">Viusal Look</a>•
+  <a href="#materials list">Materials List</a>•
+  <a href="#electronics list">Electronics List</a>•
 <a href="#credits">Credits</a>•
 <a href="#lincense">License</a>
 </p>
@@ -45,8 +45,8 @@ Resembles a Symbol of my creativity and seriousness in the Aviation feild.
 The list of materials used is as follows:-
 - **DEPRON** for surface covering and making inner supports maybe.
 - **CARBONFIBRE** for making spars,ribs,and frames whih are going to hanlde some aerodynamic stress.
-- **PLYWOOD** suplmentary material in case of not usin the fibre
-- **PCB's** for the transmitting and reciving board
+- **PLYWOOD** suplmentary material in case of not usin the fibre.
+- **PCB's** for the Spotter board.
 <br><br>
 ## Electronics List🔌
 The lsit of electronics used are:-
@@ -54,13 +54,13 @@ The lsit of electronics used are:-
 - **80mm Edf**  The power unit thats gonna pwerup the whole jet.
 - **Fpv CAM**(for future use)not currently deployed.
 - **22.2v 6000mah Lipo**for running these heavy electronics.
-- **PCB**
+- **PCB** for the spotter board.
 - **Max-M10s gps chip**
 - **SX1278 lora chips**
 - **PE4259 rf switches**
 - **TPS 79333 voltage regulator**for extra safe voltage input
 - **Small LED lights** for night flight purpose
-- **5v lipo** for tranmitter ,reciver and radar modules
+- **5v lipo** for spotter and radar modules
 <br><br>
 
 ## Credits💼📜
