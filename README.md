@@ -7,10 +7,10 @@
   <b>An experimental prototype of <i>X-26 GREYWOLF</i></b>
 </h4>
 <p align="center">
-<a href="#breif interview of the 🐺">Breif description</a>•
+<a href="#breif interview of the ">Breif interview of The </a>•
   <a href="#visual looks">Viusal look</a>•
   <a href="#materials list">Materials list</a>•
-  <a href="#electronics lost">Electronics lsit</a>•
+  <a href="#electronics list">Electronics lsit</a>•
 <a href="#credits">Credits</a>•
 <a href="#lincense">License</a>
 </p>
@@ -29,13 +29,13 @@
                          Therefore PLZ do not mix it with Any other Aircraft,I shall be thankful to u.
  <br><br>                        
                         
-## Breif interview of THE WOLF🐺
+## Breif Interview Of THE WOLF🐺
 
 This wolf is the first PT(prototype) of the series **GREY WOLF**
 The PT-1 is single engine powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall ,and going almost a **meter wide** .
 Resembles a Symbol of my creativity and seriousness in the Aviation feild.
 
-## Visual looks
+## Visual Looks
 |<img width="947" height="758" alt="X-26 PT-1" src="https://github.com/user-attachments/assets/47d1a2f4-ce30-4493-bc2f-2670a803b911" />|<img width="947" height="758" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/5548facd-ced2-4b21-abdb-d9beb347fd87" />
 |<img width="947" height="758" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/38e28f34-7f14-44f3-b3ca-d8c9660d7a83" />|
 
