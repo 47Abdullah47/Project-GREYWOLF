@@ -40,11 +40,15 @@ Abt the electronic part .This beast has a spotter board and an on-board RADAR .<
                             - 2x SMA CONNECTORS FOR SMA ANTENNAS.
   THE SCHEMATIC DIAGRAM WITH NET LABELS FOR THE TRANSMITTER BOARD IS <img width="1366" height="768" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1e88453c-8f71-475e-b65f-611be99637a6" />
 
-The reciver part on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
+The reciver part
+on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
                                                                                                          - ESP32-DEVKIT-M1
                                                                                                          - LORA SX1278
                                                                                                          - 2x ILI9341 320x240 DISPLAY
                                                                                                          - PE4259 RF SWITCH.
+                                                                                                         Reciver board's netlablleb schematic
+                                                                                                         <img width="1287" height="559" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/45967383-92cf-4259-a7b6-55cfa9fb4083" />
+
                                                                                                          
 <br>
                         So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps.<br><br>
