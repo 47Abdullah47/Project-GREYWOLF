@@ -55,7 +55,7 @@ on the hand shows all of the info recived on a dual display ,so the major compon
                                                                                                          
 <br>
                         So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps.<br><br>
-***RADAR***(maybe in future not currently ! also reviewers payattention here)<br><br>
+***RADAR*** (maybe in future not currently ! also reviewers payattention here)<br><br>
            The work of radar is to detect objects within its range . The objects can be like upcomming hurdels ,other planes or even birds. It can and is planned to serve as an **eagle eye** while the visual range is pretty much reduced ,also it can be made to detect the controller of the plane .i mean the person piloting the plane and in case help in doing some radar type landing 😁<br><br>                        
 So as u've read this project ,Resembles a Symbol of my creativity and curiosty in Aviation .
 
